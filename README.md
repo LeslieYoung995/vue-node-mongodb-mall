@@ -55,4 +55,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ```
 > 补充说明
-user-data,goods-data分别存放mongodb中users和goods两个collection中的数据
+
+```
+datadb-goods,datadb-users分别存放mongodb中users和goods两个collection中的数据
